@@ -1,3 +1,5 @@
 Modyfikacja
 
 Hello word.
+
+Nowy commit
