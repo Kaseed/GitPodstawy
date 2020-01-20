@@ -1,5 +1,9 @@
 Modyfikacja
 
+<<<<<<< HEAD
 Hello word.
 
 Nowy commit
+=======
+Hello word new
+>>>>>>> Test1
